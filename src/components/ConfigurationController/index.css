@@ -1,0 +1,9 @@
+.back {
+  background-color: blueviolet;
+  height: 250px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
